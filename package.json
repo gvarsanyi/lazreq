@@ -1,0 +1,29 @@
+{
+  "name": "lazreq",
+  "version": "0.1.0",
+  "description": "Lazy require / require on demand while keeping dependencies in module headers",
+  "main": "js/lazyreq.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gvarsanyi/lazreq.git"
+  },
+  "keywords": [
+    "lazy",
+    "require"
+  ],
+  "author": "Greg Varsanyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gvarsanyi/lazreq/issues"
+  },
+  "homepage": "https://github.com/gvarsanyi/lazreq",
+  "dependencies": {
+    "parse-stack": "^0.1.3"
+  }
+}
