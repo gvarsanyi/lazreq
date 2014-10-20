@@ -1,8 +1,8 @@
 {
   "name": "lazreq",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Lazy require / require on demand while keeping dependencies in module headers",
-  "main": "js/lazyreq.js",
+  "main": "./js/lazreq.js",
   "directories": {
     "test": "test"
   },
